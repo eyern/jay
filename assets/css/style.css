@@ -288,8 +288,8 @@ button:focus, button:active, button.btn:focus, button.btn:active {
 }
 
 .btn-add-to-cart {
-    background-color: transparent;
-    border: 2px solid #929292;
+    background-color: #d82e2e;
+    border: 2px solid #fff;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
     border-radius: 50px;
@@ -298,12 +298,12 @@ button:focus, button:active, button.btn:focus, button.btn:active {
     line-height: 1.5;
     font-weight: 700;
     text-transform: uppercase;
-    color: #202020;
+    color: #fff;
 }
 
 .btn-add-to-cart:hover {
-    background-color: #d82e2e;
-    border-color: #d82e2e;
+    background-color: #18b33c;
+    border-color: #fff;
     color: #fff;
 }
 
