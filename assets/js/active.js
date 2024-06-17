@@ -12,7 +12,7 @@
             nav: false,
             dots: true,
             smartSpeed: 1000,
-            autoplay: true,
+            autoplay: false,
             autoplayTimeout: 8000,
             autoplayHoverPause: true
         });
