@@ -13,7 +13,7 @@ Last Update: 27.09.2018
 		2.1 - Navigation Area Start
 	3.  Search Box Style
 	4.  Banner // Slider Area Star
-	5.  About Us Area Start
+	5.  Our Story Area Start
 	6.  New Collection Area Star
 	7.  Products Style Start
 	8.  Products by Category Area Start
@@ -1841,7 +1841,7 @@ address strong, address b {
 }
 
 /*== Banner // Slider Area End ==*/
-/*== About Us Area Start ==*/
+/*== Our Story Area Start ==*/
 .about-image-wrap {
     overflow: hidden;
     background-color: #fafafa;
@@ -1995,7 +1995,7 @@ address strong, address b {
     padding-left: 0;
 }
 
-/*== About Us Area End ==*/
+/*== Our Story Area End ==*/
 /*== New Collection Area Start ==*/
 #new-collection-area {
     overflow: hidden;
